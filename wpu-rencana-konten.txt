@@ -9,5 +9,5 @@ RENCANA KONTEN WPU
 - Video tentang PHP framework
   *Laravel
 - Interview
-- Vlogs
+- Vlogs seputar teknologi
 - Python
