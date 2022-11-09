@@ -6,6 +6,12 @@ RENCANA KONTEN WPU
    ^Vue
    ^React
 - Fundamnetal data structure
+  *Linked List
+  *Double Linked List
+  *Stack
+  *Tree
+  *Queue
+  *Graph
 - Video tentang PHP framework
   *Laravel
 - Interview
