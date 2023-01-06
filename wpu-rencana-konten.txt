@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   *framework Javascript
    ^Vue
    ^React
+   ^Angular
 - Fundamnetal data structure
 - Video tentang PHP framework
   *Laravel
