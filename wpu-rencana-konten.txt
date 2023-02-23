@@ -10,4 +10,5 @@ RENCANA KONTEN WPU
   *Laravel
 - Interview
 - Vlogs
+  * cerita orang yang belajar programming dengan background yang tidak selaras
 - Python
