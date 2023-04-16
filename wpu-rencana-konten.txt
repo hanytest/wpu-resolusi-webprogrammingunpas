@@ -11,3 +11,6 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- belajar menggunakan framework Css
+  ^tailwind Css
+  ^Bulma Css
