@@ -5,7 +5,9 @@ RENCANA KONTEN WPU
   *framework Javascript
    ^Vue
    ^React
+   ^Angular
 - Fundamnetal data structure
+-Penggunaan bootstrap 5
 - Video tentang PHP framework
   *Laravel
 - Interview
